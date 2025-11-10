@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolai Nizalov</h1>
 <h3 align="center">A hardworking Python Developer, ex-army Drone Operator and Electrical and Electronic Engineering student.</h3>
 
-- 🔭 I’m currently working on **DefenceNewsScraper**
+- 🔭 I’m currently working on **Restaurant Management System**
 
 - 🌱 I’m currently learning **FastAPI, Django**
 
