@@ -31,8 +31,8 @@
 
 ### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/nik231/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nik231/nik231/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nik231/nik231/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nik231/nik231/output/github-contribution-grid-snake.svg">
+</picture>
