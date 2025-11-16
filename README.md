@@ -29,7 +29,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nik231&theme=dark&hide_border=true"/>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
+### 🐍 &nbsp;That's how my commits move ...
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nik231/nik231/output/github-contribution-grid-snake-dark.svg">
